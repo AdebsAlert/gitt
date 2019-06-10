@@ -8,5 +8,5 @@
 
 ## Installation Steps
 
-1. Install the module globally with `npm install -g gitt`
+1. Install the module globally with `npm install -g gitt-push`
 2. Run `gitt` in your project to get started with pushing your local code to Github
