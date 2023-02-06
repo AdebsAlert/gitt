@@ -1,6 +1,6 @@
 {
   "name": "gitt-push",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "initialize git, create a new remote repo and make initial commit",
   "main": "gitt.js",
   "scripts": {
@@ -16,7 +16,7 @@
     "gitt": "./gitt.js"
   },
   "dependencies": {
-    "@octokit/rest": "^14.0.5",
+    "@octokit/rest": "^19.0.7",
     "chalk": "^2.3.0",
     "clear": "0.0.1",
     "clui": "^0.3.6",
@@ -25,7 +25,7 @@
     "inquirer": "^5.0.1",
     "lodash": "^4.17.15",
     "minimist": "^1.2.0",
-    "simple-git": "^1.89.0",
+    "simple-git": "^3.16.0",
     "touch": "^3.1.0"
   }
 }
